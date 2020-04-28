@@ -2,7 +2,7 @@ Code 201 pre work notes
 
 ### HTML BOOK ch. 1
 
-HTML: tags, elements, hypertext markup language
+HTML : tags, elements, hypertext markup language
 CSS: presentation, layout
 
 Browsers: software to access websites. Safari, chrome, Firefox, etc...
@@ -74,7 +74,7 @@ Iframe: small window where you can see another page. Commonly used for google ma
 
 ### HTML BOOK ch. 17
 
-###html5 layouts
+### html5 layouts
 Headers and footers can be used for: the main header or footer that appears at the top of the page on the site.
 
  Navigation < nav > element used to contain the major navigational blocks on the site such as the primary site navigation. 
